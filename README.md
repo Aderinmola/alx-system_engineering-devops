@@ -1,1 +1,1 @@
-Shell basics 2
+Directory containing basic shell scripts
